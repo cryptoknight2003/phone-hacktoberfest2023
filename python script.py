@@ -42,7 +42,7 @@ def compare_record(record_file):
                     if file_path not in f.read():
                         report["added"].append(file_path)
 
-    return reportededed
+    return report
 
 def main():
     if len(sys.argv) == 4 and sys.argv[3] == "c":
@@ -67,4 +67,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-print("hello world")
+#end this program here
