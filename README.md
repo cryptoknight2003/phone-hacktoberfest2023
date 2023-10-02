@@ -1,6 +1,3 @@
 # phone-hacktoberfest2023
 
-
-this is my readme file 
-
-improve it
+hi this is the new updated readme file you can access files and submit pull requests and it will be merged 
